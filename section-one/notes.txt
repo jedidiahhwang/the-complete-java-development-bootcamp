@@ -1,0 +1,9 @@
+Terminal Commands
+
+Naming Files
+Class/file names should always be in CamelCase.
+
+javac - Compiles your code into a format called bytecode.
+    i. This lives in a file called the .class file.
+java - Executes the compiled code.
+    i. Note that we do NOT add the .java extension after the file name.
